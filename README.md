@@ -49,6 +49,6 @@ from raw datasets to interactive Power BI dashboards.
 ## How to Run
 1. Run `cleaning.ipynb` to generate cleaned datasets
 2. Load cleaned data into MySQL
-3. Execute `ddl_fact_dim.sql` to create tables
-4. Use `analytics_queries.sql` for insights
+3. Execute `Data Modelling.sql` to create tables
+4. Use `SQl Analytics.sql` for insights
 5. Open `.pbix` file in Power BI Desktop
