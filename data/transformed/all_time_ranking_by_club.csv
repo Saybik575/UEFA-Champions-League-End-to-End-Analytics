@@ -1,0 +1,531 @@
+Position,Club,Country_Code,Country,Participated,Titles,Played,Win,Draw,Loss,Goals For,Goals Against,Pts,Goal Diff
+1,Real Madrid CF,ESP,Spain,52,14,464,277,79,108,1021,508.0,633.0,513.0
+2,FC Bayern Munchen,GER,Germany,38,6,372,221,75,76,782,367.0,517.0,415.0
+3,FC Barcelona,ESP,Spain,32,5,333,195,75,63,655,331.0,465.0,324.0
+4,Manchester United,ENG,England,30,3,293,160,69,64,533,284.0,389.0,249.0
+5,Juventus,ITA,Italy,36,2,295,152,70,73,470,288.0,374.0,182.0
+6,Liverpool FC,ENG,England,26,6,240,137,50,53,453,216.0,324.0,237.0
+7,AC Milan,ITA,Italy,29,7,255,126,65,64,422,240.0,317.0,182.0
+8,SL Benfica,POR,Portugal,41,2,273,120,64,89,437,319.0,304.0,118.0
+9,FC Porto,POR,Portugal,36,2,261,117,60,84,383,296.0,294.0,87.0
+10,AFC Ajax,NED,Netherlands,38,4,241,110,64,67,385,266.0,284.0,119.0
+11,FC Dynamo Kyiv,UKR,Ukraine,38,0,248,101,54,93,345,308.0,256.0,37.0
+12,Chelsea FC,ENG,England,18,2,191,99,52,40,330,172.0,250.0,158.0
+13,Arsenal FC,ENG,England,21,0,201,101,43,57,332,218.0,245.0,114.0
+14,Celtic FC,SCO,Scotland,36,1,216,101,37,78,333,255.0,239.0,78.0
+15,FC Internazionale Milano,ITA,Italy,23,3,192,91,51,50,271,193.0,233.0,78.0
+16,Club Atletico de Madrid,ESP,Spain,17,0,154,75,40,39,221,143.0,190.0,78.0
+17,Borussia Dortmund,GER,Germany,20,1,162,78,30,54,276,207.0,186.0,69.0
+18,RSC Anderlecht,BEL,Belgium,34,0,200,70,44,86,282,320.0,184.0,-38.0
+19,PSV Eindhoven,NED,Netherlands,29,1,183,68,42,73,243,228.0,178.0,15.0
+20,Paris Saint-Germain,FRA,France,15,0,135,73,25,37,267,156.0,171.0,111.0
+21,FK Crvena zvezda,SRB,Serbia,27,1,147,68,32,47,267,198.0,168.0,69.0
+22,Olympique Lyonnais,FRA,France,18,0,148,65,37,46,232,178.0,167.0,54.0
+23,Olympiacos FC,GRE,Greece,34,0,184,66,35,83,221,278.0,167.0,-57.0
+24,Rangers FC,SCO,Scotland,31,0,163,62,40,61,234,222.0,164.0,12.0
+25,Galatasaray AS,TUR,Turkey,27,0,177,57,43,77,215,279.0,157.0,-64.0
+26,GNK Dinamo Zagreb,CRO,Croatia,23,0,144,60,30,54,213,199.0,150.0,14.0
+27,Valencia CF,ESP,Spain,13,0,128,57,35,36,191,130.0,149.0,61.0
+28,Rosenborg BK,NOR,Norway,25,0,152,58,31,63,224,232.0,147.0,-8.0
+29,FC Shakhtar Donetsk,UKR,Ukraine,22,0,146,57,33,56,206,221.0,147.0,-15.0
+30,FCSB,ROU,Romania,26,1,145,52,41,52,203,204.0,145.0,-1.0
+31,Panathinaikos FC,GRE,Greece,28,0,157,49,45,63,182,214.0,143.0,-32.0
+32,AC Sparta Praha,CZE,Czech Republic,28,0,146,54,30,62,190,203.0,138.0,-13.0
+33,Manchester City FC,ENG,England,12,0,106,58,19,29,213,126.0,135.0,87.0
+34,FC Basel 1893,SUI,Switzerland,21,0,118,47,23,48,170,192.0,117.0,-22.0
+35,AS Monaco FC,FRA,France,17,0,116,46,23,47,182,155.0,115.0,27.0
+36,FC Spartak Moskva,RUS,Russia,21,0,124,40,31,53,173,193.0,111.0,-20.0
+37,AS Roma,ITA,Italy,13,0,110,41,27,42,148,158.0,109.0,-10.0
+38,Bayer 4 Leverkusen,GER,Germany,12,0,111,42,24,45,167,172.0,108.0,-5.0
+39,Club Brugge,BEL,Belgium,22,0,119,40,28,51,149,175.0,108.0,-26.0
+40,Olympique de Marseille,FRA,France,15,1,108,44,19,45,153,131.0,107.0,22.0
+41,FK Partizan,SRB,Serbia,22,0,105,41,24,40,161,133.0,106.0,28.0
+42,FC BATE Borisov,BLR,Belarus,15,0,100,36,30,34,111,138.0,102.0,-27.0
+43,PFC CSKA Sofia,BUL,Bulgaria,25,0,98,41,16,41,140,144.0,98.0,-4.0
+44,F.C. Copenhagen,DEN,Denmark,15,0,86,37,19,30,123,100.0,93.0,23.0
+45,PFC CSKA Moskva,RUS,Russia,15,0,104,34,24,46,125,155.0,92.0,-30.0
+46,Feyenoord,NED,Netherlands,17,1,89,34,23,32,147,116.0,91.0,31.0
+47,Legia Warszawa,POL,Poland,15,0,76,37,15,24,106,91.0,89.0,15.0
+48,FC Salzburg,AUT,Austria,17,0,80,34,19,27,120,106.0,87.0,14.0
+49,Malmo FF,SWE,Sweden,18,0,91,32,22,37,97,140.0,86.0,-43.0
+50,Fenerbahce SK,TUR,Turkey,26,0,105,32,20,53,119,177.0,84.0,-58.0
+51,IFK Goteborg,SWE,Sweden,15,0,82,35,13,34,138,119.0,83.0,19.0
+52,APOEL FC,CYP,Cyprus,18,0,94,29,25,40,99,122.0,83.0,-23.0
+53,FC Schalke 4,GER,Germany,10,0,77,31,18,28,109,117.0,80.0,-8.0
+54,NK Maribor,SVN,Slovenia,15,0,78,31,18,29,92,110.0,80.0,-18.0
+55,SK Rapid Wien,AUT,Austria,18,0,81,35,9,37,130,122.0,79.0,8.0
+56,FC Sheriff Tiraspol,MDA,Moldova,19,0,84,31,17,36,90,89.0,79.0,1.0
+57,Sporting Clube de Portugal,POR,Portugal,22,0,100,29,21,50,132,169.0,79.0,-37.0
+58,Sevilla FC,ESP,Spain,9,0,66,29,17,20,104,91.0,75.0,13.0
+59,FC Zenit,RUS,Russia,11,0,76,30,15,31,98,96.0,75.0,2.0
+60,Besiktas JK,TUR,Turkey,21,0,89,27,19,43,89,153.0,73.0,-64.0
+61,HJK Helsinki,FIN,Finland,21,0,76,28,13,35,101,117.0,69.0,-16.0
+62,SV Werder Bremen,GER,Germany,9,0,66,27,14,25,109,107.0,68.0,2.0
+63,RC Deportivo La Coruna,ESP,Spain,5,0,62,25,17,20,78,79.0,67.0,-1.0
+64,FK Austria Wien,AUT,Austria,19,0,73,25,16,32,100,110.0,66.0,-10.0
+65,SS Lazio,ITA,Italy,7,0,60,24,16,20,93,77.0,64.0,16.0
+66,Ferencvarosi TC,HUN,Hungary,14,0,63,24,16,23,99,109.0,64.0,-10.0
+67,VfL Borussia Monchengladbach,GER,Germany,9,0,55,22,16,17,110,74.0,60.0,36.0
+68,Tottenham Hotspur,ENG,England,6,0,55,25,10,20,108,83.0,60.0,25.0
+69,R. Standard de Liege,BEL,Belgium,14,0,58,25,10,23,87,73.0,60.0,14.0
+70,SSC Napoli,ITA,Italy,9,0,52,22,15,15,80,65.0,59.0,15.0
+71,FC Girondins de Bordeaux,FRA,France,7,0,50,21,16,13,54,54.0,58.0,0.0
+72,FC Dinamo 1948,ROU,Romania,18,0,66,24,10,32,96,106.0,58.0,-10.0
+73,AEK Athens FC,GRE,Greece,16,0,74,18,22,34,79,118.0,58.0,-39.0
+74,ACF Fiorentina,ITA,Italy,5,0,45,21,15,9,63,49.0,57.0,14.0
+75,FK Dukla Praha,CZE,Czech Republic,10,0,45,22,10,13,75,58.0,54.0,17.0
+76,BSC Young Boys,SUI,Switzerland,14,0,57,19,15,23,77,109.0,53.0,-32.0
+77,PFC Ludogorets 1945,BUL,Bulgaria,10,0,54,19,14,21,80,76.0,52.0,4.0
+78,Leeds United AFC,ENG,England,4,0,40,22,6,12,76,41.0,50.0,35.0
+79,Hamburger SV,GER,Germany,6,1,43,19,9,15,72,56.0,47.0,16.0
+80,Qarabag FK,AZE,Azerbaijan,7,0,39,16,14,9,43,30.0,46.0,13.0
+81,HNK Hajduk Split,CRO,Croatia,10,0,40,18,10,12,58,47.0,46.0,11.0
+82,Gornik Zabrze,POL,Poland,12,0,43,20,6,17,69,65.0,46.0,4.0
+83,AS Saint-Etienne,FRA,France,10,0,41,19,7,15,50,44.0,45.0,6.0
+84,Ujpest FC,HUN,Hungary,11,0,44,18,8,18,70,72.0,44.0,-2.0
+85,PFC Levski Sofia,BUL,Bulgaria,15,0,58,15,14,29,74,82.0,44.0,-8.0
+86,LOSC Lille,FRA,France,8,0,56,14,16,26,49,63.0,44.0,-14.0
+87,Villarreal CF,ESP,Spain,5,0,46,14,15,17,51,56.0,43.0,-5.0
+88,FC Viktoria Plzen,CZE,Czech Republic,8,0,41,17,8,16,64,77.0,42.0,-13.0
+89,Omonoia FC,CYP,Cyprus,20,0,55,17,8,30,65,112.0,42.0,-47.0
+90,Grasshopper Club Zurich,SUI,Switzerland,15,0,54,15,11,28,80,85.0,41.0,-5.0
+91,CFR 1907 Cluj,ROU,Romania,7,0,40,16,8,16,52,52.0,40.0,0.0
+92,Maccabi Tel-Aviv FC,ISR,Israel,10,0,47,15,10,22,50,63.0,40.0,-13.0
+93,FC Spartak Trnava,SVK,Slovakia,6,0,30,15,9,6,50,25.0,39.0,25.0
+94,FC Zurich,SUI,Switzerland,11,0,45,17,5,23,56,77.0,39.0,-21.0
+95,FC Lokomotiv Moskva,RUS,Russia,8,0,57,14,11,32,56,84.0,39.0,-28.0
+96,Linfield FC,NIR,Northern Ireland,31,0,73,8,23,42,60,130.0,39.0,-70.0
+97,Berliner FC Dynamo,GER,Germany,10,0,38,15,8,15,54,52.0,38.0,2.0
+98,FC Nantes,FRA,France,8,0,40,12,14,14,52,54.0,38.0,-2.0
+99,Skonto FC,LVA,Latvia,12,0,42,16,6,20,57,62.0,38.0,-5.0
+100,SK Slovan Bratislava,SVK,Slovakia,12,0,40,14,10,16,45,52.0,38.0,-7.0
+101,Brondby IF,DEN,Denmark,12,0,44,15,8,21,56,67.0,38.0,-11.0
+102,SK Slavia Praha,CZE,Czech Republic,13,0,46,13,12,21,34,63.0,38.0,-29.0
+103,SK Sturm Graz,AUT,Austria,6,0,42,15,7,20,50,78.0,37.0,-28.0
+104,Maccabi Haifa FC,ISR,Israel,9,0,40,14,7,19,67,60.0,35.0,7.0
+105,Wisla Krakow,POL,Poland,8,0,32,15,4,13,58,50.0,34.0,8.0
+106,Anorthosis Famagusta FC,CYP,Cyprus,8,0,36,12,9,15,47,44.0,33.0,3.0
+107,RB Leipzig,GER,Germany,4,0,30,14,4,12,52,53.0,32.0,-1.0
+108,FC Dinamo Tbilisi,GEO,Georgia,13,0,39,14,4,21,52,58.0,32.0,-6.0
+109,FC Astana,KAZ,Kazakhstan,6,0,31,11,10,10,37,45.0,32.0,-8.0
+110,Stade de Reims,FRA,France,4,0,24,14,3,7,63,30.0,31.0,33.0
+111,Vasas FC,HUN,Hungary,6,0,27,12,6,9,62,34.0,30.0,28.0
+112,1 FC Dynamo Dresden,GER,Germany,7,0,30,12,6,12,48,44.0,30.0,4.0
+113,Nottingham Forest FC,ENG,England,3,2,20,12,4,4,32,14.0,28.0,18.0
+114,FBK Kaunas,LTU,Lithuania,8,0,28,11,6,11,41,39.0,28.0,2.0
+115,Athletic Club,ESP,Spain,5,0,28,10,8,10,38,36.0,28.0,2.0
+116,Molde FK,NOR,Norway,5,0,27,8,11,8,39,30.0,27.0,9.0
+117,Budapest Honved FC,HUN,Hungary,10,0,30,12,3,15,47,54.0,27.0,-7.0
+118,Trabzonspor AS,TUR,Turkey,9,0,28,10,7,11,24,34.0,27.0,-10.0
+119,Debreceni VSC,HUN,Hungary,7,0,32,11,5,16,37,50.0,27.0,-13.0
+120,VfB Stuttgart,GER,Germany,5,0,29,9,8,12,35,42.0,26.0,-7.0
+121,Newcastle United FC,ENG,England,3,0,24,11,3,10,33,33.0,25.0,0.0
+122,VfL Wolfsburg,GER,Germany,3,0,22,10,3,9,29,29.0,23.0,0.0
+123,MSK Zilina,SVK,Slovakia,7,0,28,9,5,14,27,45.0,23.0,-18.0
+124,FC Pyunik,ARM,Armenia,11,0,32,8,7,17,27,51.0,23.0,-24.0
+125,The New Saints FC,WAL,Wales,13,0,36,9,5,22,36,63.0,23.0,-27.0
+126,Valletta FC,MLT,Malta,18,0,46,8,7,31,38,113.0,23.0,-75.0
+127,1 FC Koln,GER,Germany,3,0,17,7,8,2,27,19.0,22.0,8.0
+128,Atalanta BC,ITA,Italy,3,0,23,8,6,9,40,43.0,22.0,-3.0
+129,MTK Budapest,HUN,Hungary,7,0,24,10,2,12,41,46.0,22.0,-5.0
+130,Boavista FC,POR,Portugal,3,0,24,7,8,9,27,32.0,22.0,-5.0
+131,Real Sociedad de Futbol,ESP,Spain,4,0,26,8,6,12,24,29.0,22.0,-5.0
+132,Aston Villa FC,ENG,England,2,1,15,9,3,3,24,10.0,21.0,14.0
+133,Hapoel Beer-Sheva FC,ISR,Israel,3,0,16,9,3,4,27,24.0,21.0,3.0
+134,KKS Lech Poznan,POL,Poland,7,0,24,10,1,13,27,38.0,21.0,-11.0
+135,PAOK FC,GRE,Greece,9,0,28,6,9,13,36,49.0,21.0,-13.0
+136,F91 Diddeleng,LUX,Luxembourg,16,0,40,7,7,26,45,87.0,21.0,-42.0
+137,MFK Petrzalka,SVK,Slovakia,2,0,18,7,6,5,25,24.0,20.0,1.0
+138,RTS Widzew Lodz,POL,Poland,5,0,26,9,2,15,48,51.0,20.0,-3.0
+139,Aalborg BK,DEN,Denmark,4,0,24,7,6,11,32,41.0,20.0,-9.0
+140,AJ Auxerre,FRA,France,3,0,24,9,2,13,19,31.0,20.0,-12.0
+141,FC Wacker Innsbruck,AUT,Austria,9,0,27,8,4,15,37,54.0,20.0,-17.0
+142,KF Tirana,ALB,Albania,14,0,38,8,4,26,36,62.0,20.0,-26.0
+143,Dundalk FC,IRL,Ireland,12,0,33,4,12,17,24,60.0,20.0,-36.0
+144,FFC Victoria 91,GER,Germany,6,0,22,9,1,12,35,33.0,19.0,2.0
+145,FC Midtjylland,DEN,Denmark,4,0,20,7,5,8,21,24.0,19.0,-3.0
+146,Neftci PFK,AZE,Azerbaijan,7,0,22,7,5,10,18,36.0,19.0,-18.0
+147,KRC Genk,BEL,Belgium,6,0,30,5,9,16,27,65.0,19.0,-38.0
+148,FC Aktobe,KAZ,Kazakhstan,5,0,16,7,4,5,23,18.0,18.0,5.0
+149,OGC Nice,FRA,France,3,0,18,7,4,7,32,32.0,18.0,0.0
+150,FC Levadia Tallinn,EST,Estonia,7,0,20,6,6,8,20,23.0,18.0,-3.0
+151,Servette FC,SUI,Switzerland,7,0,21,6,6,9,32,39.0,18.0,-7.0
+152,FK Vardar,MKD,North Macedonia,8,0,24,5,8,11,30,40.0,18.0,-10.0
+153,AS Jeunesse Esch,LUX,Luxembourg,22,0,49,7,4,38,43,158.0,18.0,-115.0
+154,PFC Litex Lovech,BUL,Bulgaria,4,0,16,8,1,7,29,28.0,17.0,1.0
+155,Helsingborgs IF,SWE,Sweden,2,0,16,6,5,5,19,19.0,17.0,0.0
+156,AIK,SWE,Sweden,4,0,20,7,3,10,18,29.0,17.0,-11.0
+157,FH Hafnarfjordur,ISL,Iceland,8,0,24,5,7,12,21,35.0,17.0,-14.0
+158,UC Sampdoria,ITA,Italy,2,0,13,7,2,4,25,15.0,16.0,10.0
+159,FC Zimbru Chisinau,MDA,Moldova,4,0,16,7,2,7,24,17.0,16.0,7.0
+160,AGF Aarhus,DEN,Denmark,5,0,18,6,4,8,22,25.0,16.0,-3.0
+161,SC Braga,POR,Portugal,2,0,18,7,2,9,23,31.0,16.0,-8.0
+162,Shelbourne FC,IRL,Ireland,6,0,20,4,8,8,21,31.0,16.0,-10.0
+163,Valkeakosken Haka,FIN,Finland,8,0,26,6,4,16,30,56.0,16.0,-26.0
+164,Malaga CF,ESP,Spain,1,0,12,5,5,2,18,9.0,15.0,9.0
+165,Parma FC,ITA,Italy,3,0,12,6,3,3,15,10.0,15.0,5.0
+166,Fehervar FC,HUN,Hungary,3,0,14,4,7,3,13,13.0,15.0,0.0
+167,FC Rubin,RUS,Russia,3,0,16,4,7,5,12,16.0,15.0,-4.0
+168,ETO FC Gyor,HUN,Hungary,4,0,16,7,1,8,28,34.0,15.0,-6.0
+169,KF Skenderbeu,ALB,Albania,5,0,16,6,3,7,18,25.0,15.0,-7.0
+170,FC Banik Ostrava,CZE,Czech Republic,4,0,16,6,3,7,20,29.0,15.0,-9.0
+171,Beitar Jerusalem FC,ISR,Israel,5,0,16,6,3,7,20,29.0,15.0,-9.0
+172,Derby County FC,ENG,England,2,0,12,6,2,4,18,12.0,14.0,6.0
+173,FC Wismut Aue,GER,Germany,3,0,16,5,4,7,26,23.0,14.0,3.0
+174,1 FC Kaiserslautern,GER,Germany,2,0,12,6,2,4,18,16.0,14.0,2.0
+175,Aberdeen FC,SCO,Scotland,3,0,12,5,4,3,14,12.0,14.0,2.0
+176,FC Dnipro Dnipropetrovsk,UKR,Ukraine,3,0,14,5,4,5,15,15.0,14.0,0.0
+177,Ruch Chorzow,POL,Poland,4,0,14,5,4,5,20,25.0,14.0,-5.0
+178,FK Ventspils,LVA,Latvia,6,0,20,6,2,12,21,31.0,14.0,-10.0
+179,Hibernians FC,MLT,Malta,11,0,26,5,4,17,20,68.0,14.0,-48.0
+180,MFK Kosice,SVK,Slovakia,2,0,14,6,1,7,22,17.0,13.0,5.0
+181,Hapoel Tel-Aviv FC,ISR,Israel,2,0,14,5,3,6,21,20.0,13.0,1.0
+182,FK Senica,SVK,Slovakia,3,0,12,5,3,4,16,17.0,13.0,-1.0
+183,Lincoln Red Imps FC,GIB,Gibraltar,6,0,17,5,3,9,20,26.0,13.0,-6.0
+184,Djurgardens IF,SWE,Sweden,7,0,17,4,5,8,17,30.0,13.0,-13.0
+185,FK Ekranas,LTU,Lithuania,7,0,20,5,3,12,19,40.0,13.0,-21.0
+186,Glentoran FC,NIR,Northern Ireland,12,0,28,3,7,18,20,59.0,13.0,-39.0
+187,Grazer AK,AUT,Austria,3,0,10,5,2,3,19,13.0,12.0,6.0
+188,Wiener SC,AUT,Austria,2,0,12,4,4,4,21,18.0,12.0,3.0
+189,FK Rabotnicki,MKD,North Macedonia,4,0,14,3,6,5,15,13.0,12.0,2.0
+190,Leicester City FC,ENG,England,1,0,10,5,2,3,11,10.0,12.0,1.0
+191,RC Lens,FRA,France,2,0,12,4,4,4,16,17.0,12.0,-1.0
+192,FK Sarajevo,BIH,Bosnia and Herzegovina,6,0,18,5,2,11,24,26.0,12.0,-2.0
+193,FC Torpedo Kutaisi,GEO,Georgia,4,0,12,5,2,5,14,19.0,12.0,-5.0
+194,FK Zalgiris Vilnius,LTU,Lithuania,7,0,18,5,2,11,15,30.0,12.0,-15.0
+195,Bohemian FC,IRL,Ireland,6,0,18,4,4,10,13,29.0,12.0,-16.0
+196,FC Flora Tallinn,EST,Estonia,11,0,23,4,4,15,20,45.0,12.0,-25.0
+197,FK Partizani,ALB,Albania,10,0,22,3,6,13,9,36.0,12.0,-27.0
+198,Dundee United FC,SCO,Scotland,1,0,8,5,1,2,14,5.0,11.0,9.0
+199,IF Elfsborg,SWE,Sweden,2,0,10,4,3,3,14,7.0,11.0,7.0
+200,1 FC Nurnberg,GER,Germany,2,0,8,5,1,2,16,14.0,11.0,2.0
+201,FK Vojvodina,SRB,Serbia,2,0,9,5,1,3,10,9.0,11.0,1.0
+202,FC Dinamo Minsk,BLR,Belarus,4,0,12,3,5,4,18,18.0,11.0,0.0
+203,Udinese Calcio,ITA,Italy,3,0,12,4,3,5,17,19.0,11.0,-2.0
+204,AZ Alkmaar,NED,Netherlands,3,0,12,3,5,4,15,17.0,11.0,-2.0
+205,ND Gorica,SVN,Slovenia,3,0,12,5,1,6,20,25.0,11.0,-5.0
+206,Hertha BSC Berlin,GER,Germany,1,0,14,3,5,6,12,18.0,11.0,-6.0
+207,IFK Norrkoping,SWE,Sweden,5,0,14,3,5,6,18,25.0,11.0,-7.0
+208,Lillestrom SK,NOR,Norway,5,0,14,3,5,6,10,17.0,11.0,-7.0
+209,Valerenga Fotball,NOR,Norway,6,0,14,4,3,7,17,25.0,11.0,-8.0
+210,FC Twente,NED,Netherlands,4,0,14,2,7,5,15,23.0,11.0,-8.0
+211,Alashkert FC,ARM,Armenia,4,0,14,3,5,6,12,20.0,11.0,-8.0
+212,AEL Limassol FC,CYP,Cyprus,3,0,10,5,1,4,8,18.0,11.0,-10.0
+213,FC Lahti,FIN,Finland,5,0,14,5,1,8,12,25.0,11.0,-13.0
+214,Tampere United,FIN,Finland,4,0,14,5,1,8,13,27.0,11.0,-14.0
+215,HB Torshavn,FRO,Faroe Islands,10,0,21,3,5,13,19,52.0,11.0,-33.0
+216,Sliema Wanderers FC,MLT,Malta,10,0,24,5,1,18,17,66.0,11.0,-49.0
+217,FC Ararat Yerevan,ARM,Armenia,1,0,6,5,0,1,14,5.0,10.0,9.0
+218,Eintracht Frankfurt,GER,Germany,1,0,7,4,2,1,23,15.0,10.0,8.0
+219,Dundee FC,SCO,Scotland,1,0,8,5,0,3,20,14.0,10.0,6.0
+220,FC Carl Zeiss Jena,GER,Germany,2,0,8,5,0,3,12,11.0,10.0,1.0
+221,FC Thun,SUI,Switzerland,1,0,10,4,2,4,11,11.0,10.0,0.0
+222,FC Rostov,RUS,Russia,1,0,10,3,4,3,15,16.0,10.0,-1.0
+223,Halmstads BK,SWE,Sweden,4,0,10,4,2,4,13,14.0,10.0,-1.0
+224,FC Universitatea Craiova,ROU,Romania,4,0,12,4,2,6,14,17.0,10.0,-3.0
+225,RCD Mallorca,ESP,Spain,2,0,10,4,2,4,7,11.0,10.0,-4.0
+226,Kjobenhavns BK,DEN,Denmark,4,0,13,4,2,7,19,25.0,10.0,-6.0
+227,FC Krasnodar,RUS,Russia,2,0,12,4,2,6,14,22.0,10.0,-8.0
+228,Vejle BK,DEN,Denmark,4,0,12,3,4,5,13,22.0,10.0,-9.0
+229,Shamrock Rovers FC,IRL,Ireland,10,0,22,2,6,14,11,36.0,10.0,-25.0
+230,IA Akranes,ISL,Iceland,9,0,22,3,4,15,18,47.0,10.0,-29.0
+231,KR Reykjavik,ISL,Iceland,10,0,21,3,4,14,20,66.0,10.0,-46.0
+232,FC Amsterdam,NED,Netherlands,1,0,6,4,1,1,13,4.0,9.0,9.0
+233,Everton FC,ENG,England,3,0,10,2,5,3,14,10.0,9.0,4.0
+234,FC Shakhter Karagandy,KAZ,Kazakhstan,2,0,8,4,1,3,10,8.0,9.0,2.0
+235,FC Sion,SUI,Switzerland,2,0,8,4,1,3,16,16.0,9.0,0.0
+236,RC Celta de Vigo,ESP,Spain,1,0,10,3,3,4,12,13.0,9.0,-1.0
+237,NK Olimpija Ljubljana,SVN,Slovenia,4,0,10,4,1,5,12,15.0,9.0,-3.0
+238,KAA Gent,BEL,Belgium,3,0,13,4,1,8,14,23.0,9.0,-9.0
+239,Esbjerg fB,DEN,Denmark,4,0,12,3,3,6,11,28.0,9.0,-17.0
+240,FK Zeljeznicar,BIH,Bosnia and Herzegovina,6,0,16,4,1,11,13,31.0,9.0,-18.0
+241,Barry Town United FC,WAL,Wales,6,0,14,4,1,9,11,38.0,9.0,-27.0
+242,Valur,ISL,Iceland,11,0,24,3,3,18,13,66.0,9.0,-53.0
+243,ASC Campionii FC Arges,ROU,Romania,2,0,8,4,0,4,13,10.0,8.0,3.0
+244,Neuchatel Xamax FCS,SUI,Switzerland,2,0,8,4,0,4,14,13.0,8.0,1.0
+245,Atvidabergs FF,SWE,Sweden,2,0,8,4,0,4,12,12.0,8.0,0.0
+246,NK Domzale,SVN,Slovenia,2,0,8,4,0,4,10,12.0,8.0,-2.0
+247,Real Betis Balompie,ESP,Spain,1,0,8,3,2,3,6,9.0,8.0,-3.0
+248,HSK Zrinjski,BIH,Bosnia and Herzegovina,6,0,12,2,4,6,6,18.0,8.0,-12.0
+249,KV Mechelen,BEL,Belgium,1,0,6,2,3,1,9,3.0,7.0,6.0
+250,Hibernian FC,SCO,Scotland,1,0,6,3,1,2,9,5.0,7.0,4.0
+251,RC Strasbourg Alsace,FRA,France,1,0,6,3,1,2,8,6.0,7.0,2.0
+252,IFK Malmo,SWE,Sweden,1,0,6,3,1,2,7,7.0,7.0,0.0
+253,FC Slavia Mozyr,BLR,Belarus,2,0,8,2,3,3,11,12.0,7.0,-1.0
+254,LKS Lodz,POL,Poland,2,0,6,3,1,2,9,10.0,7.0,-1.0
+255,FC Unirea Urziceni,ROU,Romania,2,0,8,2,3,3,8,9.0,7.0,-1.0
+256,NK Siroki Brijeg,BIH,Bosnia and Herzegovina,2,0,6,3,1,2,4,5.0,7.0,-1.0
+257,FC Lokomotiv Sofia 1929,BUL,Bulgaria,2,0,8,3,1,4,19,21.0,7.0,-2.0
+258,FC Kairat Almaty,KAZ,Kazakhstan,2,0,6,3,1,2,8,11.0,7.0,-3.0
+259,KF Shkendija,MKD,North Macedonia,4,0,12,3,1,8,8,21.0,7.0,-13.0
+260,B36 Torshavn,FRO,Faroe Islands,6,0,14,2,3,9,12,30.0,7.0,-18.0
+261,FC Santa Coloma,AND,Andorra,9,0,18,2,3,13,12,32.0,7.0,-20.0
+262,Floriana FC,MLT,Malta,8,0,17,2,3,12,5,53.0,7.0,-48.0
+263,Ipswich Town FC,ENG,England,1,0,4,3,0,1,16,5.0,6.0,11.0
+264,TSV 1860 Munchen,GER,Germany,2,0,6,3,0,3,13,7.0,6.0,6.0
+265,Bohemians 1905,CZE,Czech Republic,1,0,4,3,0,1,7,2.0,6.0,5.0
+266,1 FC Magdeburg,GER,Germany,3,0,8,3,0,5,15,11.0,6.0,4.0
+267,KSK Beveren,BEL,Belgium,2,0,6,2,2,2,11,8.0,6.0,3.0
+268,Hapoel Kiryat Shmona FC,ISR,Israel,1,0,6,2,2,2,9,6.0,6.0,3.0
+269,Sparta Rotterdam,NED,Netherlands,1,0,6,3,0,3,12,11.0,6.0,1.0
+270,FC Drita,KOS,Kosovo,2,0,5,3,0,2,8,7.0,6.0,1.0
+271,HNK Rijeka,CRO,Croatia,2,0,8,2,2,4,10,11.0,6.0,-1.0
+272,Baki FK,AZE,Azerbaijan,2,0,6,2,2,2,7,8.0,6.0,-1.0
+273,FC Slovan Liberec,CZE,Czech Republic,3,0,8,2,2,4,6,8.0,6.0,-2.0
+274,Wolverhampton Wanderers FC,ENG,England,2,0,8,2,2,4,12,16.0,6.0,-4.0
+275,KS Polonia Bytom,POL,Poland,2,0,6,3,0,3,8,12.0,6.0,-4.0
+276,Hvidovre IF,DEN,Denmark,3,0,8,1,4,3,13,19.0,6.0,-6.0
+277,KF Vllaznia,ALB,Albania,3,0,8,3,0,5,9,16.0,6.0,-7.0
+278,Birkirkara FC,MLT,Malta,4,0,9,2,2,5,9,19.0,6.0,-10.0
+279,Istanbul Basaksehir FK,TUR,Turkey,3,0,12,2,2,8,15,28.0,6.0,-13.0
+280,Odense BK,DEN,Denmark,4,0,10,2,2,6,10,27.0,6.0,-17.0
+281,FK Dinamo Tirana,ALB,Albania,6,0,14,2,2,10,7,25.0,6.0,-18.0
+282,FC Reipas,FIN,Finland,3,0,8,2,2,4,8,30.0,6.0,-22.0
+283,Waterford FC,IRL,Ireland,6,0,14,3,0,11,15,47.0,6.0,-32.0
+284,NS Mura,SVN,Slovenia,1,0,4,2,1,1,7,3.0,5.0,4.0
+285,KSP Polonia Warszawa,POL,Poland,1,0,4,2,1,1,10,8.0,5.0,2.0
+286,FC Zbrojovka Brno,CZE,Czech Republic,1,0,4,1,3,0,7,5.0,5.0,2.0
+287,Lyngby BK,DEN,Denmark,2,0,6,2,1,3,7,5.0,5.0,2.0
+288,FC Zorya Luhansk,UKR,Ukraine,1,0,4,2,1,1,3,1.0,5.0,2.0
+289,FC Shirak,ARM,Armenia,2,0,6,1,3,2,6,5.0,5.0,1.0
+290,Drogheda United FC,IRL,Ireland,1,0,4,2,1,1,6,5.0,5.0,1.0
+291,Hellas Verona FC,ITA,Italy,1,0,4,2,1,1,5,4.0,5.0,1.0
+292,KF Feronikeli,KOS,Kosovo,1,0,4,2,1,1,5,4.0,5.0,1.0
+293,FK Rudar Pljevlja,MNE,Montenegro,2,0,6,2,1,3,7,7.0,5.0,0.0
+294,Myllykosken Pallo -47,FIN,Finland,1,0,4,2,1,1,4,4.0,5.0,0.0
+295,FK Obilic,SRB,Serbia,1,0,4,2,1,1,5,6.0,5.0,-1.0
+296,MFK Karvina,CZE,Czech Republic,1,0,4,2,1,1,4,5.0,5.0,-1.0
+297,FC Rapid 1923,ROU,Romania,3,0,8,1,3,4,9,11.0,5.0,-2.0
+298,AS Trencin,SVK,Slovakia,2,0,6,2,1,3,9,11.0,5.0,-2.0
+299,Kesla FK,AZE,Azerbaijan,2,0,6,1,3,2,3,5.0,5.0,-2.0
+300,FK Kukesi,ALB,Albania,2,0,6,1,3,2,3,6.0,5.0,-3.0
+301,B 1903 Kobenhavn,DEN,Denmark,3,0,8,2,1,5,7,11.0,5.0,-4.0
+302,FC Astana 64,KAZ,Kazakhstan,2,0,6,2,1,3,9,14.0,5.0,-5.0
+303,IBV Vestmannaeyjar,ISL,Iceland,3,0,8,2,1,5,6,12.0,5.0,-6.0
+304,FC Petrolul Ploiesti,ROU,Romania,3,0,8,2,1,5,8,15.0,5.0,-7.0
+305,FK Sloga Jugomagnat,MKD,North Macedonia,3,0,10,1,3,6,5,12.0,5.0,-7.0
+306,Heart of Midlothian FC,SCO,Scotland,3,0,8,2,1,5,8,16.0,5.0,-8.0
+307,Cork City FC,IRL,Ireland,3,0,10,2,1,7,7,16.0,5.0,-9.0
+308,Vikingur,FRO,Faroe Islands,3,0,8,2,1,5,9,21.0,5.0,-12.0
+309,Nomme Kalju FC,EST,Estonia,2,0,8,2,1,5,6,20.0,5.0,-14.0
+310,FC Dynamo Brest,BLR,Belarus,1,0,3,2,0,1,8,5.0,4.0,3.0
+311,Stabaek Fotball,NOR,Norway,1,0,4,1,2,1,6,4.0,4.0,2.0
+312,B 1913 Odense,DEN,Denmark,1,0,4,2,0,2,15,14.0,4.0,1.0
+313,Dunaferr SE,HUN,Hungary,1,0,4,1,2,1,7,6.0,4.0,1.0
+314,Burnley FC,ENG,England,1,0,4,2,0,2,8,8.0,4.0,0.0
+315,TSV Eintracht Braunschweig,GER,Germany,1,0,5,2,0,3,5,5.0,4.0,0.0
+316,Cagliari Calcio,ITA,Italy,1,0,4,2,0,2,5,5.0,4.0,0.0
+317,Torino FC,ITA,Italy,1,0,4,1,2,1,4,4.0,4.0,0.0
+318,FK Mlada Boleslav,CZE,Czech Republic,1,0,4,1,2,1,8,9.0,4.0,-1.0
+319,FC Prishtina,KOS,Kosovo,1,0,4,2,0,2,5,6.0,4.0,-1.0
+320,LASK,AUT,Austria,2,0,6,2,0,4,8,10.0,4.0,-2.0
+321,FC Jazz,FIN,Finland,1,0,4,2,0,2,6,8.0,4.0,-2.0
+322,SK Brann,NOR,Norway,2,0,6,1,2,3,4,6.0,4.0,-2.0
+323,FC Milsami Orhei,MDA,Moldova,1,0,4,2,0,2,3,5.0,4.0,-2.0
+324,FC Molenbeek Brussels Strombeek,BEL,Belgium,1,0,4,2,0,2,6,9.0,4.0,-3.0
+325,FC Zestafoni,GEO,Georgia,2,0,6,1,2,3,6,9.0,4.0,-3.0
+326,Gwardia Warszawa,POL,Poland,2,0,5,1,2,2,6,9.0,4.0,-3.0
+327,FK Modrica,BIH,Bosnia and Herzegovina,1,0,4,2,0,2,5,8.0,4.0,-3.0
+328,Kilmarnock FC,SCO,Scotland,1,0,4,1,2,1,4,7.0,4.0,-3.0
+329,FC Hradec Kralove,CZE,Czech Republic,1,0,4,1,2,1,2,5.0,4.0,-3.0
+330,FK Borac Banja Luka,BIH,Bosnia and Herzegovina,2,0,4,2,0,2,7,11.0,4.0,-4.0
+331,FC La Chaux-de-Fonds,SUI,Switzerland,1,0,4,1,2,1,5,9.0,4.0,-4.0
+332,Zalaegerszegi TE,HUN,Hungary,1,0,4,2,0,2,3,7.0,4.0,-4.0
+333,FC Levadia Maardu,EST,Estonia,2,0,6,1,2,3,8,14.0,4.0,-6.0
+334,FK Suduva,LTU,Lithuania,3,0,8,1,2,5,5,13.0,4.0,-8.0
+335,FK Mogren,MNE,Montenegro,2,0,6,2,0,4,7,17.0,4.0,-10.0
+336,FK Buducnost Podgorica,MNE,Montenegro,5,0,9,1,2,6,5,17.0,4.0,-12.0
+337,Viking FK,NOR,Norway,7,0,14,1,2,11,11,29.0,4.0,-18.0
+338,FK Lyn,NOR,Norway,4,0,10,2,0,8,14,41.0,4.0,-27.0
+339,Crusaders FC,NIR,Northern Ireland,6,0,14,1,2,11,7,52.0,4.0,-45.0
+340,FC Metalist Kharkiv,UKR,Ukraine,1,0,2,1,1,0,3,1.0,3.0,2.0
+341,FC Spartak Plovdiv,BUL,Bulgaria,1,0,4,1,1,2,3,3.0,3.0,0.0
+342,FC Aarau,SUI,Switzerland,1,0,4,1,1,2,3,3.0,3.0,0.0
+343,Bologna FC,ITA,Italy,1,0,3,1,1,1,2,2.0,3.0,0.0
+344,Akademisk Boldklub,DEN,Denmark,1,0,4,1,1,2,4,5.0,3.0,-1.0
+345,FK Leotar,BIH,Bosnia and Herzegovina,1,0,4,1,1,2,3,4.0,3.0,-1.0
+346,FC Torpedo Moskva,RUS,Russia,2,0,4,0,3,1,0,1.0,3.0,-1.0
+347,FC Timisoara,ROU,Romania,1,0,4,0,3,1,2,4.0,3.0,-2.0
+348,Blackburn Rovers FC,ENG,England,1,0,6,1,1,4,5,8.0,3.0,-3.0
+349,Riga FC,LVA,Latvia,3,0,5,0,3,2,1,4.0,3.0,-3.0
+350,Apollon Limassol FC,CYP,Cyprus,2,0,6,1,1,4,5,9.0,3.0,-4.0
+351,SC Tavriya Simferopol,UKR,Ukraine,1,0,4,1,1,2,4,8.0,3.0,-4.0
+352,FC Belshina Bobruisk,BLR,Belarus,1,0,4,1,1,2,3,7.0,3.0,-4.0
+353,TSG 1899 Hoffenheim,GER,Germany,2,0,8,0,3,5,14,20.0,3.0,-6.0
+354,sc Heerenveen,NED,Netherlands,1,0,6,1,1,4,3,9.0,3.0,-6.0
+355,WKS Slask Wroclaw,POL,Poland,2,0,6,1,1,4,5,12.0,3.0,-7.0
+356,FK Sileks,MKD,North Macedonia,3,0,5,1,1,3,2,9.0,3.0,-7.0
+357,EB/Streymur,FRO,Faroe Islands,2,0,6,1,1,4,9,17.0,3.0,-8.0
+358,FC WIT Georgia,GEO,Georgia,2,0,6,1,1,4,8,17.0,3.0,-9.0
+359,SK Liepajas Metalurgs,LVA,Latvia,2,0,6,1,1,4,3,14.0,3.0,-11.0
+360,Osters IF,SWE,Sweden,4,0,8,1,1,6,3,14.0,3.0,-11.0
+361,K. Lierse SK,BEL,Belgium,2,0,10,1,1,8,6,19.0,3.0,-13.0
+362,Fredrikstad FK,NOR,Norway,3,0,8,1,1,6,6,22.0,3.0,-16.0
+363,Derry City FC,IRL,Ireland,4,0,9,1,1,7,9,26.0,3.0,-17.0
+364,FK Sutjeska,MNE,Montenegro,4,0,10,0,3,7,3,20.0,3.0,-17.0
+365,Saint Patrick's Athletic FC,IRL,Ireland,4,0,8,0,3,5,2,23.0,3.0,-21.0
+366,NK Celje,SVN,Slovenia,1,0,2,1,0,1,4,2.0,2.0,2.0
+367,Cwmbran Town FC,WAL,Wales,1,0,2,1,0,1,4,4.0,2.0,0.0
+368,FC Urartu,ARM,Armenia,1,0,2,1,0,1,3,3.0,2.0,0.0
+369,Larissa FC,GRE,Greece,1,0,2,1,0,1,3,3.0,2.0,0.0
+370,Kalmar FF,SWE,Sweden,1,0,2,1,0,1,3,3.0,2.0,0.0
+371,NK Zagreb,CRO,Croatia,1,0,2,1,0,1,2,2.0,2.0,0.0
+372,KS Flamurtari,ALB,Albania,1,0,2,0,2,0,1,1.0,2.0,0.0
+373,CA Osasuna,ESP,Spain,1,0,2,0,2,0,1,1.0,2.0,0.0
+374,FC Koper,SVN,Slovenia,1,0,2,1,0,1,4,5.0,2.0,-1.0
+375,NK Brotnjo,BIH,Bosnia and Herzegovina,1,0,2,1,0,1,3,4.0,2.0,-1.0
+376,FC Dacia Chisinau,MDA,Moldova,1,0,2,1,0,1,2,3.0,2.0,-1.0
+377,FC Gomel,BLR,Belarus,1,0,2,1,0,1,1,2.0,2.0,-1.0
+378,FC Dynamo Moscow,RUS,Russia,1,0,2,1,0,1,1,2.0,2.0,-1.0
+379,1 FC Saarbrucken,GER,Germany,1,0,2,1,0,1,5,7.0,2.0,-2.0
+380,FK Zeta,MNE,Montenegro,1,0,4,1,0,3,5,7.0,2.0,-2.0
+381,Ararat-Armenia FC,ARM,Armenia,2,0,3,1,0,2,3,5.0,2.0,-2.0
+382,Inter Club d'Escaldes,AND,Andorra,2,0,3,1,0,2,2,4.0,2.0,-2.0
+383,FC Lugano,SUI,Switzerland,1,0,2,1,0,1,2,4.0,2.0,-2.0
+384,NSI Runavik,FRO,Faroe Islands,1,0,2,1,0,1,1,3.0,2.0,-2.0
+385,FC Hansa Rostock,GER,Germany,1,0,2,1,0,1,1,3.0,2.0,-2.0
+386,KA Akureyri,ISL,Iceland,1,0,2,1,0,1,1,3.0,2.0,-2.0
+387,PFC Botev Plovdiv,BUL,Bulgaria,2,0,4,1,0,3,5,8.0,2.0,-3.0
+388,Szombierki Bytom,POL,Poland,1,0,4,1,0,3,4,7.0,2.0,-3.0
+389,Sivasspor,TUR,Turkey,1,0,2,1,0,1,3,6.0,2.0,-3.0
+390,FC Sioni Bolnisi,GEO,Georgia,1,0,4,1,0,3,2,5.0,2.0,-3.0
+391,Breidablik,ISL,Iceland,1,0,2,1,0,1,2,5.0,2.0,-3.0
+392,FK Pobeda,MKD,North Macedonia,2,0,4,0,2,2,2,5.0,2.0,-3.0
+393,FK Spartaks Jurmala,LVA,Latvia,2,0,4,0,2,2,1,4.0,2.0,-3.0
+394,FC Viitorul,ROU,Romania,1,0,2,1,0,1,1,4.0,2.0,-3.0
+395,Llanelli AFC,WAL,Wales,1,0,2,1,0,1,1,4.0,2.0,-3.0
+396,FC Saburtalo,GEO,Georgia,1,0,4,1,0,3,4,8.0,2.0,-4.0
+397,FC Differdange 3,LUX,Luxembourg,1,0,2,1,0,1,3,7.0,2.0,-4.0
+398,Zaglebie Lubin,POL,Poland,2,0,4,1,0,3,3,7.0,2.0,-4.0
+399,MFK Ruzomberok,SVK,Slovakia,1,0,4,1,0,3,3,7.0,2.0,-4.0
+400,Hapoel Haifa FC,ISR,Israel,1,0,4,0,2,2,1,5.0,2.0,-4.0
+401,FK Samkir,AZE,Azerbaijan,2,0,6,1,0,5,6,11.0,2.0,-5.0
+402,Kapaz PFK,AZE,Azerbaijan,2,0,4,1,0,3,4,9.0,2.0,-5.0
+403,FC Vaslui,ROU,Romania,2,0,4,0,2,2,2,7.0,2.0,-5.0
+404,FC Metalurgi Rustavi,GEO,Georgia,2,0,4,0,2,2,1,6.0,2.0,-5.0
+405,Montpellier Herault SC,FRA,France,1,0,6,0,2,4,6,12.0,2.0,-6.0
+406,Europa FC,GIB,Gibraltar,2,0,3,1,0,2,3,9.0,2.0,-6.0
+407,Athlone Town FC,IRL,Ireland,2,0,4,0,2,2,7,14.0,2.0,-7.0
+408,Willem II,NED,Netherlands,1,0,6,0,2,4,7,15.0,2.0,-8.0
+409,KF Elbasani,ALB,Albania,2,0,4,1,0,3,1,9.0,2.0,-8.0
+410,UE Sant Julia,AND,Andorra,1,0,4,0,2,2,2,11.0,2.0,-9.0
+411,S.S. Tre Fiori F.C.,SMR,San Marino,4,0,7,0,2,5,4,16.0,2.0,-12.0
+412,FCM UTA Arad,ROU,Romania,2,0,6,0,2,4,3,17.0,2.0,-14.0
+413,CS Fola Esch,LUX,Luxembourg,4,0,7,0,2,5,3,19.0,2.0,-16.0
+414,SP Tre Penne,SMR,San Marino,4,0,7,1,0,6,2,20.0,2.0,-18.0
+415,Dublin City FC,IRL,Ireland,3,0,6,1,0,5,3,25.0,2.0,-22.0
+416,TPS Turku,FIN,Finland,4,0,10,1,0,9,4,28.0,2.0,-24.0
+417,Fram Reykjavik,ISL,Iceland,4,0,8,0,2,6,4,28.0,2.0,-24.0
+418,Hamrun Spartans FC,MLT,Malta,4,0,8,1,0,7,2,26.0,2.0,-24.0
+419,CA Spora Luxembourg,LUX,Luxembourg,3,0,7,1,0,6,7,36.0,2.0,-29.0
+420,FC TVMK Tallinn,EST,Estonia,1,0,2,0,1,1,3,4.0,1.0,-1.0
+421,Csepel SC,HUN,Hungary,1,0,2,0,1,1,3,4.0,1.0,-1.0
+422,FC Tiraspol,MDA,Moldova,1,0,2,0,1,1,3,4.0,1.0,-1.0
+423,FC St.Gallen 1879,SUI,Switzerland,1,0,2,0,1,1,3,4.0,1.0,-1.0
+424,Piast Gliwice,POL,Poland,1,0,2,0,1,1,2,3.0,1.0,-1.0
+425,FC Metz,FRA,France,1,0,2,0,1,1,1,2.0,1.0,-1.0
+426,FC Irtysh Pavlodar,KAZ,Kazakhstan,1,0,2,0,1,1,1,2.0,1.0,-1.0
+427,Skeid FK,NOR,Norway,1,0,2,0,1,1,1,2.0,1.0,-1.0
+428,Vitoria SC,POR,Portugal,1,0,2,0,1,1,1,2.0,1.0,-1.0
+429,SK Admira Wacker Wien,AUT,Austria,1,0,2,0,1,1,0,1.0,1.0,-1.0
+430,Xazar Lankaran FK,AZE,Azerbaijan,1,0,2,0,1,1,2,4.0,1.0,-2.0
+431,SJK Seinajoki,FIN,Finland,1,0,2,0,1,1,2,4.0,1.0,-2.0
+432,AC Chievo Verona,ITA,Italy,1,0,2,0,1,1,2,4.0,1.0,-2.0
+433,FC Beroe 2000 Kazanlak,BUL,Bulgaria,1,0,2,0,1,1,1,3.0,1.0,-2.0
+434,FC Etar VT,BUL,Bulgaria,1,0,2,0,1,1,1,3.0,1.0,-2.0
+435,Silkeborg IF,DEN,Denmark,1,0,2,0,1,1,1,3.0,1.0,-2.0
+436,FC Tobol Kostanay,KAZ,Kazakhstan,1,0,2,0,1,1,1,3.0,1.0,-2.0
+437,CS Grevenmacher,LUX,Luxembourg,1,0,2,0,1,1,0,2.0,1.0,-2.0
+438,Connah's Quay Nomads FC,WAL,Wales,2,0,3,0,1,2,2,5.0,1.0,-3.0
+439,FC Astra Giurgiu,ROU,Romania,1,0,2,0,1,1,1,4.0,1.0,-3.0
+440,Glenavon FC,NIR,Northern Ireland,1,0,2,0,1,1,0,3.0,1.0,-3.0
+441,SC Rot-Weiss Essen,GER,Germany,1,0,2,0,1,1,1,5.0,1.0,-4.0
+442,Hammarby Fotboll,SWE,Sweden,1,0,2,0,1,1,1,5.0,1.0,-4.0
+443,FC Lausanne-Sport,SUI,Switzerland,1,0,2,0,1,1,0,4.0,1.0,-4.0
+444,Lisburn Distillery FC,NIR,Northern Ireland,1,0,2,0,1,1,3,8.0,1.0,-5.0
+445,FC Linz,AUT,Austria,1,0,2,0,1,1,0,5.0,1.0,-5.0
+446,FC Suduroy,FRO,Faroe Islands,1,0,2,0,1,1,0,5.0,1.0,-5.0
+447,FC Norma Tallinn,EST,Estonia,2,0,4,0,1,3,1,7.0,1.0,-6.0
+448,FK Kareda,LTU,Lithuania,2,0,4,0,1,3,1,8.0,1.0,-7.0
+449,Stade Rennais FC,FRA,France,1,0,6,0,1,5,3,11.0,1.0,-8.0
+450,La Fiorita 1967,SMR,San Marino,3,0,5,0,1,4,0,11.0,1.0,-11.0
+451,FC Lusitans,AND,Andorra,2,0,4,0,1,3,3,16.0,1.0,-13.0
+452,Bursaspor SK,TUR,Turkey,1,0,6,0,1,5,2,16.0,1.0,-14.0
+453,B 1909 Odense,DEN,Denmark,3,0,6,0,1,5,6,21.0,1.0,-15.0
+454,FC Progres Niederkorn,LUX,Luxembourg,2,0,4,0,1,3,1,17.0,1.0,-16.0
+455,AC Oulu,FIN,Finland,2,0,4,0,1,3,2,19.0,1.0,-17.0
+456,FC Aris Bonnevoie,LUX,Luxembourg,3,0,6,0,1,5,6,25.0,1.0,-19.0
+457,Cliftonville FC,NIR,Northern Ireland,3,0,6,0,1,5,1,20.0,1.0,-19.0
+458,Portadown FC,NIR,Northern Ireland,3,0,6,0,1,5,3,24.0,1.0,-21.0
+459,KuPS Kuopio,FIN,Finland,4,0,7,0,1,6,4,26.0,1.0,-22.0
+460,FC Nordsjaelland,DEN,Denmark,2,0,8,0,1,7,4,28.0,1.0,-24.0
+461,Olympiakos Nicosia FC,CYP,Cyprus,3,0,6,0,1,5,4,36.0,1.0,-32.0
+462,NK Lokomotiva Zagreb,CRO,Croatia,1,0,1,0,0,1,0,1.0,0.0,-1.0
+463,DOS Utrecht,NED,Netherlands,1,0,2,0,0,2,4,6.0,0.0,-2.0
+464,Ulisses FC,ARM,Armenia,1,0,2,0,0,2,0,2.0,0.0,-2.0
+465,FK Teplice,CZE,Czech Republic,1,0,2,0,0,2,0,2.0,0.0,-2.0
+466,FC Inter Turku,FIN,Finland,1,0,2,0,0,2,0,2.0,0.0,-2.0
+467,FC Kilikia,ARM,Armenia,1,0,2,0,0,2,3,6.0,0.0,-3.0
+468,Rapid JC,NED,Netherlands,1,0,2,0,0,2,3,6.0,0.0,-3.0
+469,Chemnitzer FC,GER,Germany,1,0,2,0,0,2,2,5.0,0.0,-3.0
+470,FK Bodo/Glimt,NOR,Norway,1,0,2,0,0,2,2,5.0,0.0,-3.0
+471,FC Dnepr Mogilev,BLR,Belarus,1,0,2,0,0,2,0,3.0,0.0,-3.0
+472,FC Lantana,EST,Estonia,1,0,2,0,0,2,0,3.0,0.0,-3.0
+473,FCI Tallinn,EST,Estonia,1,0,2,0,0,2,0,3.0,0.0,-3.0
+474,FC Dila Gori,GEO,Georgia,1,0,2,0,0,2,0,3.0,0.0,-3.0
+475,FK Liepaja,LVA,Latvia,1,0,2,0,0,2,0,3.0,0.0,-3.0
+476,Orgryte IS,SWE,Sweden,1,0,2,0,0,2,3,7.0,0.0,-4.0
+477,FC Sachsen Leipzig,GER,Germany,1,0,2,0,0,2,2,6.0,0.0,-4.0
+478,Trepca 89,KOS,Kosovo,1,0,2,0,0,2,2,6.0,0.0,-4.0
+479,KS Stal Mielec,POL,Poland,2,0,4,0,0,4,2,6.0,0.0,-4.0
+480,SS Folgore,SMR,San Marino,2,0,3,0,0,3,2,6.0,0.0,-4.0
+481,Vaci FC,HUN,Hungary,1,0,2,0,0,2,1,5.0,0.0,-4.0
+482,FC Shakhtyor Soligorsk,BLR,Belarus,2,0,4,0,0,4,0,4.0,0.0,-4.0
+483,FK Makedonija GP Skopje,MKD,North Macedonia,1,0,2,0,0,2,0,4.0,0.0,-4.0
+484,Moss FK,NOR,Norway,1,0,2,0,0,2,0,4.0,0.0,-4.0
+485,FC Pacos de Ferreira,POR,Portugal,1,0,2,0,0,2,3,8.0,0.0,-5.0
+486,Pezoporikos FC,CYP,Cyprus,1,0,2,0,0,2,2,7.0,0.0,-5.0
+487,Stjarnan,ISL,Iceland,1,0,2,0,0,2,1,6.0,0.0,-5.0
+488,KF Teuta,ALB,Albania,1,0,2,0,0,2,0,5.0,0.0,-5.0
+489,FC Ranger's,AND,Andorra,1,0,2,0,0,2,0,5.0,0.0,-5.0
+490,FC Yerevan,ARM,Armenia,1,0,2,0,0,2,0,5.0,0.0,-5.0
+491,SV Zulte Waregem,BEL,Belgium,1,0,2,0,0,2,0,5.0,0.0,-5.0
+492,Toulouse FC,FRA,France,1,0,2,0,0,2,0,5.0,0.0,-5.0
+493,KF Renova,MKD,North Macedonia,1,0,2,0,0,2,0,5.0,0.0,-5.0
+494,OFK Titograd,MNE,Montenegro,1,0,2,0,0,2,0,5.0,0.0,-5.0
+495,Motherwell FC,SCO,Scotland,1,0,2,0,0,2,0,5.0,0.0,-5.0
+496,FC Luzern,SUI,Switzerland,1,0,2,0,0,2,0,5.0,0.0,-5.0
+497,HB Koge,DEN,Denmark,1,0,2,0,0,2,1,7.0,0.0,-6.0
+498,Cork Hibernians FC,IRL,Ireland,1,0,2,0,0,2,1,7.0,0.0,-6.0
+499,Cork Celtic FC,IRL,Ireland,1,0,2,0,0,2,1,7.0,0.0,-6.0
+500,PFC Lokomotiv Plovdiv 1926,BUL,Bulgaria,1,0,2,0,0,2,0,6.0,0.0,-6.0
+501,Herfolge BK,DEN,Denmark,1,0,2,0,0,2,0,6.0,0.0,-6.0
+502,FC Samtredia,GEO,Georgia,1,0,2,0,0,2,0,6.0,0.0,-6.0
+503,HIFK Helsinki,FIN,Finland,2,0,4,0,0,4,5,12.0,0.0,-7.0
+504,Ards FC,NIR,Northern Ireland,1,0,2,0,0,2,3,10.0,0.0,-7.0
+505,FC Alania Vladikavkaz,RUS,Russia,1,0,2,0,0,2,3,10.0,0.0,-7.0
+506,Royal Antwerp FC,BEL,Belgium,1,0,2,0,0,2,1,8.0,0.0,-7.0
+507,HPS Helsinki,FIN,Finland,1,0,2,0,0,2,0,7.0,0.0,-7.0
+508,Vikingur Reykjavik,ISL,Iceland,3,0,6,0,0,6,5,13.0,0.0,-8.0
+509,FC Otelul Galati,ROU,Romania,1,0,6,0,0,6,3,11.0,0.0,-8.0
+510,IK Start,NOR,Norway,2,0,4,0,0,4,2,10.0,0.0,-8.0
+511,Marsaxlokk FC,MLT,Malta,1,0,2,0,0,2,1,9.0,0.0,-8.0
+512,FC Araks Ararat,ARM,Armenia,2,0,4,0,0,4,0,8.0,0.0,-8.0
+513,Stromsgodset IF,NOR,Norway,2,0,4,0,0,4,1,10.0,0.0,-9.0
+514,IFK Mariehamn,FIN,Finland,1,0,2,0,0,2,0,9.0,0.0,-9.0
+515,Sligo Rovers FC,IRL,Ireland,2,0,4,0,0,4,0,9.0,0.0,-9.0
+516,FC Daugava Daugavpils,LVA,Latvia,1,0,2,0,0,2,1,11.0,0.0,-10.0
+517,Coleraine FC,NIR,Northern Ireland,1,0,2,0,0,2,1,11.0,0.0,-10.0
+518,B68 Toftir,FRO,Faroe Islands,1,0,2,0,0,2,0,11.0,0.0,-11.0
+519,Limerick FC,IRL,Ireland,2,0,4,0,0,4,4,16.0,0.0,-12.0
+520,KI Klaksvik,FRO,Faroe Islands,3,0,5,0,0,5,2,14.0,0.0,-12.0
+521,SS Murata,SMR,San Marino,2,0,4,0,0,4,1,13.0,0.0,-12.0
+522,Bangor City FC,WAL,Wales,1,0,2,0,0,2,0,13.0,0.0,-13.0
+523,KPV Kokkola,FIN,Finland,1,0,2,0,0,2,0,14.0,0.0,-14.0
+524,Enosis Pezoporikou Amol FC,CYP,Cyprus,1,0,2,0,0,2,0,16.0,0.0,-16.0
+525,Rhyl FC,WAL,Wales,2,0,4,0,0,4,1,19.0,0.0,-18.0
+526,CS Stade Dudelange,LUX,Luxembourg,1,0,2,0,0,2,0,18.0,0.0,-18.0
+527,Rabat Ajax FC,MLT,Malta,2,0,4,0,0,4,0,20.0,0.0,-20.0
+528,Keflavik,ISL,Iceland,4,0,8,0,0,8,5,35.0,0.0,-30.0
+529,US Luxembourg,LUX,Luxembourg,5,0,10,0,0,10,3,43.0,0.0,-40.0
+530,FC Avenir Beggen,LUX,Luxembourg,6,0,12,0,0,12,1,56.0,0.0,-55.0
